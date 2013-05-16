@@ -1,0 +1,13 @@
+default: &default
+  key: yy84gj3n1zr7
+  secret: dv73y51aluq9ajy35c9twrpvzhqaqo92
+  domain: forum.aurametrix.com
+
+production:
+  <<: *default
+
+development:
+  <<: *default
+
+test:
+  <<: *default
