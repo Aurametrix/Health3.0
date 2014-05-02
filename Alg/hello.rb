@@ -17,3 +17,8 @@ end
 
 hello = HelloWorld.new("World")
 hello.sayHi
+
+hello = ARGV[0]
+hello.sayHi
+
+//https://www.ruby-lang.org/en/documentation/quickstart/2/
