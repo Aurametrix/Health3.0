@@ -9,7 +9,7 @@ Set class, although you have to import a module to use it (require 'set').
 
 class Stack
   def initialize
-    @store = Array.new
+    @store = []
   end
   
   def pop
@@ -20,6 +20,14 @@ class Stack
     @store.push(element)
     self
   end
+
+  def peek
+    @store.last
+   end
+
+   def empty?
+    @store.empty?
+   end
   
   def size
     @store.size
