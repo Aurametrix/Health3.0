@@ -1,3 +1,6 @@
+Learn the basics of Ruby
+http://tryruby.org/
+
 JS charts with Ruby, companion to groupdate
 gem "chartkick"
 chartkick.js
