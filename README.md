@@ -21,3 +21,10 @@ Examples
 
 ### Keeping track of node packages/ruby gems security issues
 + [bundler-audit](https://github.com/rubysec/bundler-audit)
+
+### Newer features
+ Merge 2 hashes
+     { a: 1, b: 2 }.merge({ b: 3, c: 4 }, { d: 5 }) #=> {:a=>1, :b=>3, :c=>4, :d=>5}
+     
+endless range
+    (1..).size => Infinity
