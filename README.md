@@ -28,3 +28,7 @@ Examples
      
 endless range
     (1..).size => Infinity
+    
+### Mobile
+
+[Turbolinks 5](https://www.youtube.com/watch?v=SWEts0rlezA&app=desktop)
