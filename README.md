@@ -32,3 +32,7 @@ endless range
 ### Mobile
 
 [Turbolinks 5](https://www.youtube.com/watch?v=SWEts0rlezA&app=desktop)
+
+### Intereesting Projects
+
++ [RBS](https://developer.squareup.com/blog/the-state-of-ruby-3-typing/)
