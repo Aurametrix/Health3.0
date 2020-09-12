@@ -1,0 +1,104 @@
+swagger: "2.0"
+
+info:
+  title: "Medcorder Nearby Doctor API"
+  description: "Returns doctors near a client given a lat/lon and autocomplete text."
+  version: "1.0.0"
+  termsOfService: "https://medcorder.com/terms"
+  contact:
+    name: Medcorder API Support
+    email: api@medcorder.com
+
+host: "api.medcorder.com"
+schemes:
+  - https
+produces:
+  - application/json
+x-google-backend:
+  address: https://medcorder-api-production.uc.r.appspot.com/
+  jwt_audience: 369549039786-08mij7ihsqfoe0ehi5u08kao9kc774mo.apps.googleusercontent.com
+  protocol: h2
+paths:
+  /doctors:
+    get:
+      summary: Fetch a list of nearby medical providers
+      operationId: doctors
+      responses:
+        200:
+          description: A list of doctors
+          schema:
+            type: array
+            items:
+              $ref: '#/definitions/doctor'
+      parameters:
+      - name: search
+        in: query
+        type: string
+        description: The search text so far for autocomplete
+        required: false
+      - name: latitude
+        in: query
+        type: number
+        format: double
+        minimum: -90
+        maximum: 90
+        description: The latitude of the client, around which to search
+        required: false
+      - name: longitude
+        in: query
+        type: number
+        format: double
+        minimum: -180
+        maximum: 180
+        description: The longitude of the client, around which to search
+        required: false
+      - name: limit
+        in: query
+        type: integer
+        minimum: 1
+        maximum: 50
+        default: 50
+        description: The number of results desired
+        required: false
+
+definitions:
+  doctor:
+    type: object
+    properties:
+      address:
+        type: string
+      address2:
+        type: string
+      city:
+        type: string
+      county:
+        type: string
+      email:
+        type: string
+      state:
+        type: string
+      zip:
+        type: string
+      first_name:
+        type: string
+      last_name:
+        type: string
+      full_name:
+        type: string
+      gender:
+        type: string
+      title:
+        type: string
+      website:
+        type: string
+      specialty:
+        type: string
+      latitude:
+        type: number
+        format: float
+      longitude:
+        type: number
+        format: float
+      distance:
+        type: number
+        format: float
