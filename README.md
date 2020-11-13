@@ -33,6 +33,7 @@ endless range
 
 [Turbolinks 5](https://www.youtube.com/watch?v=SWEts0rlezA&app=desktop)
 
-### Intereesting Projects
+### Interesting Projects
 
 + [RBS](https://developer.squareup.com/blog/the-state-of-ruby-3-typing/)
++ [Find Github e-mail](https://github.com/jemmaissroff/find_github_email)
