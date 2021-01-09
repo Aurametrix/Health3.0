@@ -1,6 +1,9 @@
 Learn the basics of Ruby
 http://tryruby.org/
 
+(Ruby 3, Concurrency and the Ecosystem)[https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/]
+
+
 JS charts with Ruby, companion to groupdate
 gem "chartkick"
 chartkick.js
