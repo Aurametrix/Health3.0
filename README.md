@@ -1,6 +1,8 @@
 Learn the basics of Ruby
 http://tryruby.org/
 
++ [Why is not Ruby 3 faster?](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html)
+
 (Ruby 3, Concurrency and the Ecosystem)[https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/]
 
 
