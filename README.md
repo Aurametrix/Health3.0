@@ -34,6 +34,10 @@ Examples
 endless range
     (1..).size => Infinity
     
+    
+[Garbage collection](https://jemma.dev/blog/gc-mark-and-sweep)
+  
+    
 ### Mobile
 
 [Turbolinks 5](https://www.youtube.com/watch?v=SWEts0rlezA&app=desktop)
