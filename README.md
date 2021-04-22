@@ -47,3 +47,4 @@ endless range
 + [RBS](https://developer.squareup.com/blog/the-state-of-ruby-3-typing/)
 + [Find Github e-mail](https://github.com/jemmaissroff/find_github_email)
 + [Loripsum](https://github.com/raulpopadineti/homebrew-loripsum) - Lorem Ipsum generator
++ [Automating Voronoy diagrams](https://github.com/mike-bourgeous/mb-geometry)
