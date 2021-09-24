@@ -48,3 +48,4 @@ endless range
 + [Find Github e-mail](https://github.com/jemmaissroff/find_github_email)
 + [Loripsum](https://github.com/raulpopadineti/homebrew-loripsum) - Lorem Ipsum generator
 + [Automating Voronoy diagrams](https://github.com/mike-bourgeous/mb-geometry)
++ [TenderJIT](https://github.com/tenderlove/tenderjit) -  JIT compiler for Ruby written in Ruby
