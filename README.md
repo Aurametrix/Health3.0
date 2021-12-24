@@ -49,3 +49,4 @@ endless range
 + [Loripsum](https://github.com/raulpopadineti/homebrew-loripsum) - Lorem Ipsum generator
 + [Automating Voronoy diagrams](https://github.com/mike-bourgeous/mb-geometry)
 + [TenderJIT](https://github.com/tenderlove/tenderjit) -  JIT compiler for Ruby written in Ruby
++ [Natalie](https://github.com/seven1m/natalie) - ruby that compiles to C++
