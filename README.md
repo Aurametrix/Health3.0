@@ -50,3 +50,4 @@ endless range
 + [Automating Voronoy diagrams](https://github.com/mike-bourgeous/mb-geometry)
 + [TenderJIT](https://github.com/tenderlove/tenderjit) -  JIT compiler for Ruby written in Ruby
 + [Natalie](https://github.com/seven1m/natalie) - ruby that compiles to C++
++ [blog server](https://github.com/KrauseFx/krausefx.com) - [Life database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) 
