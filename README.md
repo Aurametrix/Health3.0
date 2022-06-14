@@ -36,6 +36,8 @@ endless range
     
     
 [Garbage collection](https://jemma.dev/blog/gc-mark-and-sweep)
+
+[MAking gems more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
   
     
 ### Mobile
