@@ -54,3 +54,4 @@ endless range
 + [Natalie](https://github.com/seven1m/natalie) - ruby that compiles to C++
 + [blog server](https://github.com/KrauseFx/krausefx.com) - [Life database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) 
 + [Clever Algorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Nature-Inspired Programming Recipes
++ [Ruby Delights Built Into The Language](https://technology.doximity.com/articles/ruby-delights-built-into-the-language)
