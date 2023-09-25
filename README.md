@@ -52,6 +52,7 @@ endless range
 + [Loripsum](https://github.com/raulpopadineti/homebrew-loripsum) - Lorem Ipsum generator
 + [Automating Voronoy diagrams](https://github.com/mike-bourgeous/mb-geometry)
 + [TenderJIT](https://github.com/tenderlove/tenderjit) -  JIT compiler for Ruby written in Ruby
++ [Natalie 2023](https://github.com/natalie-lang/natalie) a work-in-progress Ruby compiler, written in Ruby and C++
 + [Natalie](https://github.com/seven1m/natalie) - ruby that compiles to C++
 + [blog server](https://github.com/KrauseFx/krausefx.com) - [Life database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) 
 + [Clever Algorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Nature-Inspired Programming Recipes
