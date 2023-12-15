@@ -38,7 +38,11 @@ endless range
     
 [Garbage collection](https://jemma.dev/blog/gc-mark-and-sweep)
 
-[MAking gems more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
+[Making gems more secure](https://blog.rubygems.org/2022/06/13/making-packages-more-secure.html)
+
+[Ruby's Private Keyword](https://blog.jez.io/ruby-private/)
+
+[Debugging Ryby the hard way](https://www.aha.io/engineering/articles/debugging-ruby-the-hard-way)
   
     
 ### Mobile
