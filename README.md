@@ -43,6 +43,8 @@ endless range
 [Ruby's Private Keyword](https://blog.jez.io/ruby-private/)
 
 [Debugging Ryby the hard way](https://www.aha.io/engineering/articles/debugging-ruby-the-hard-way)
+
+[I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
   
     
 ### Mobile
