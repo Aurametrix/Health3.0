@@ -43,7 +43,9 @@ endless range
 
 [Ruby's Private Keyword](https://blog.jez.io/ruby-private/)
 
-[Debugging Ryby the hard way](https://www.aha.io/engineering/articles/debugging-ruby-the-hard-way)
+[Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
+
+[Debugging Ruby the hard way](https://www.aha.io/engineering/articles/debugging-ruby-the-hard-way)
 
 [Top-level methods](https://zverok.space/blog/2024-10-21-global_functions.html)
 
