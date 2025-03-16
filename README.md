@@ -4,8 +4,8 @@ http://tryruby.org/
 + [Why is not Ruby 3 faster?](https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html)
 + [Ruby 3.4](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 
-(Ruby 3, Concurrency and the Ecosystem)[https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/]
-[3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
++ [Ruby 3.2.0, Concurrency and the Ecosystem](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/)
++ [3.2.0](https://docs.ruby-lang.org/en/master/NEWS_md.html#label-NEWS+for+Ruby+3.2.0)
 
 
 JS charts with Ruby, companion to groupdate
@@ -57,7 +57,8 @@ endless range
 [Turbolinks 5](https://www.youtube.com/watch?v=SWEts0rlezA&app=desktop)
 
 ### Interesting Projects
-[Transformers for Ruby](https://github.com/ankane/transformers-ruby)
++ [Transformers for Ruby](https://github.com/ankane/transformers-ruby)
++ [RubyLLM](https://github.com/crmne/ruby_llm)
 + [RBS](https://developer.squareup.com/blog/the-state-of-ruby-3-typing/)
 + [Indexing all Ruby conferences](https://www.rubyvideo.dev/)
 + [Find Github e-mail](https://github.com/jemmaissroff/find_github_email)
