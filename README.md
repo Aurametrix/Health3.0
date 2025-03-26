@@ -50,6 +50,8 @@ endless range
 [Top-level methods](https://zverok.space/blog/2024-10-21-global_functions.html)
 
 [I Love Ruby](https://eliseshaffer.com/2023/12/18/i-love-ruby/)
+
+[Concurrent Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
   
     
 ### Mobile
