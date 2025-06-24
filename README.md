@@ -72,3 +72,4 @@ endless range
 + [blog server](https://github.com/KrauseFx/krausefx.com) - [Life database](https://krausefx.com//blog/how-i-put-my-whole-life-into-a-single-database) 
 + [Clever Algorithms](https://github.com/clever-algorithms/CleverAlgorithms) - Nature-Inspired Programming Recipes
 + [Ruby Delights Built Into The Language](https://technology.doximity.com/articles/ruby-delights-built-into-the-language)
++ [Solid Queue for RoR](https://blog.appsignal.com/2025/06/18/a-deep-dive-into-solid-queue-for-ruby-on-rails.html)
